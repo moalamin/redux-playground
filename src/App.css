@@ -1,0 +1,8 @@
+.flex-container {
+  margin: 20px;
+  display: flex;
+  felx-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+  align-items: center;
+}
